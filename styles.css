@@ -1,0 +1,21 @@
+body{
+  background-color: #4062F9;
+  text-align: center;
+  color: #fff;
+  font-family:ubuntu;
+}
+h1{
+  font-size: 60px;
+}
+#tempunit:hover{
+  color:#9b9c9d;
+  cursor:pointer;
+  color:#9b9c9d;
+}
+#icon{
+  color: #161616;
+  position: relative;
+  display: inline-block;
+  width: 10rem;
+  height: 10rem; 
+}
